@@ -1,0 +1,42 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/darwin/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/darwin/.emacs.d/"
+ "/home/darwin/.emacs.d/local/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "myinit.org"
+ "init.el"
+ "myinit.el"
+ "ox-reveal.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/darwin/.emacs.d/" (23459 41855 725681 44000) "ido.last~" "ido.last" "eshell/" "myinit.el" "ox-reveal.el" "local/" ".git/" "myinit.org~" "init.el~" "elpa/" "../" "ac-comphist.dat" "init.el" "myinit.org" "auto-save-list/" "./" "projectile-bookmarks.eld")
+
+ ("/home/darwin/" (23459 41885 909989 990000) ".pki/" ".phpls/" ".profile" "sketchbook/" ".cache/" ".xsession-errors" ".oracle_jre_usage/" ".emacs.d/" ".linuxmint/" ".vim/" ".mozilla/" ".node_repl_history" "Pictures/" "jdk1.8.0_111/" ".zsh_history" "MEGA/" ".zcompdump" ".npm/" ".tooling/" ".icons/" ".gimp-2.8/" ".atom/" ".gitconfig" ".nbi/" ".Xauthority" ".zcompdump-darwin-5.1.1" ".dbus/" ".ICEauthority" ".bashrc" ".oh-my-zsh/" ".nano/" ".ssh/" ".themes/" ".laradock/" ".netbeans/" ".DataGrip2018.2/" "Documents/" "Videos/" ".sudo_as_admin_successful" ".gnupg/" ".zshrc" ".gconf/" "netbeans-8.2/" "../" "NetBeansProjects/" ".dmrc" ".thumbnails/" ".bash_logout" "Music/" ".vscode/" ".xsession-errors.old" "Desktop/" ".java/" ".docker/" ".cinnamon/" ".wget-hsts" ".config/" "Templates/" "Public/" ".bash_history" "./" ".viminfo" ".arduino/" "Downloads/" ".local/")
+
+ ("/home/darwin/Documents/proyectos_bati/planeacion/intro_laravel/" (23459 40627 858306 238000) "first_class.org~" "first_class.org" "intro.pdf" "intro.odp" "../" "./")
+
+ ("/home/darwin/.emacs.d/local/" (23459 11266 204973 422000) "ox-reveal.el" "../" "./")
+
+ ("/home/" (23412 29576 459637 467000) "darwin/" "../" "./")
+
+ ("/home/darwin/Documents/" (23455 3208 444170 773000) "arq.odt" "Analex/" "compiladores/" "Admin/" "laravel/" "modelos/" "proyectos_bati/" "LPV/" "../" "ayudas/" "prueba/" "Sistemas/" "clase/" "Analex2/" "./" "dockers/" "Analogica/")
+
+ ("/home/darwin/Documents/proyectos_bati/" (23449 59332 583959 779000) "planeacion/" "facico/" "extras/" "../" "./")
+
+ ("/home/darwin/Documents/proyectos_bati/planeacion/" (23449 22662 157573 773000) "entorno/" "laradock/" "casos_uso/" "../" "intro_laravel/" "acosador/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
